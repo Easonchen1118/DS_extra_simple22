@@ -1,5 +1,5 @@
 #include <stdio.h>
-//圈圈叉叉
+//圈圈叉叉https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30787
 int main(){
     int array[3][3];
     for (int i=0; i<3; i++) {
